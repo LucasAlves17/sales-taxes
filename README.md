@@ -51,6 +51,8 @@ sales-taxes/
 │   ├── receipt_spec.rb
 │   ├── shopping_basket_spec.rb
 │   └── spec_helper.rb
+├── Gemfile
+├── Gemfile.lock
 ├── main.rb
 └── README.md
 ```
